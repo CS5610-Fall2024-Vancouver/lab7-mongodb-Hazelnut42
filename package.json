@@ -1,0 +1,15 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "main": "taskManager.js",
+  "scripts": {
+    "start": "node taskManager.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
